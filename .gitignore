@@ -27,6 +27,9 @@
 
 /public/assets
 
+# Ignore Visual Studio Code files 
+.history
+
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
